@@ -15,4 +15,4 @@ I created this project as part of my learning journey with **React** and **Tailw
 
 If you have a live demo, you can add the link here:
 
-[Live Demo](#)
+[https://color-palettee-generatorr.vercel.app/](#)
